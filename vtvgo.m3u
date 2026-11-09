@@ -219,6 +219,8 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LXuRwJY.png",Phú Thọ
 https://live.mediatech.vn/live/2856e81d201c99b4649b5c62f3cddad3881/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdnCmw7y/QNg-TV1.png",Quảng Ngãi 1
+https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j90HbNC/QNg-TV2.png",Quảng Ngãi 2
 https://ott3.nethubtv.vn/live/bentretv/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KVia0uU.png",Quảng Ninh 1
