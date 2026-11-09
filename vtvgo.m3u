@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/CK-rS1WbUz0mcRIodGxvvpqXiQB6XhphIkl2z7F_S_4/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvM2ZlMDdhZmQtYzIyZS00M2QwLTgyZTgtOWNkMGUyYTc3ZTRkLnBuZw==.png",VTV1
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/tQ3tnlNCo_bh2xtNO4pYQwCgjcLlyfEuBqnq5qJ8EU4/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYzQ3ZjcwZWItYzZiYy00OGMwLTg0ODQtMTVlNjdjZWU1ZDYxLnBuZw==.png",VTV2
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/Urelv182xNl1mSeAyngHOYs6Ux6EXdkeaM7NPpTVxxQ/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZWJjNDJiMzAtN2ZjNS00Mjg1LThlOTUtY2VhNmVjMjkxMjI2LnBuZw==.png",VTV3
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/ZHnw6RfJf-Bbc4AnYFh6fGTwD1M6W3nNPBNRsIMzrVs/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTBlZDc3NjYtYTM0ZC00MWFlLWI1YjMtMGZjM2Q2ODhjNjU4LnBuZw==.png",VTV4
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/HBQG6GvIODFr6E5umhq7hQsOvCBlVH_WHV4ApyOWw5U/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOTQzZDQzMmMtOWZkZC00MWE0LWJiZjUtYWZiZmQ0YWY2YzFiLnBuZw==.png",VTV5
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/OR4fDMDbsuz5SPpbqb3myeRz8sxRnkammtO-quus7PM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWQ3NjkwNGUtNWFkMi00ZGVhLWFmNzQtZmIyOGFhMDY0N2QzLnBuZw==.png",VTV5 TÂY NAM BỘ
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/z8YnKuV6Kl555S6Iyi6UuwQcE61Tdqqi1qyLBRP_6u0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYzZjMzBiYWEtMmM1ZC00YTA1LWE0MzQtYzdjMTYzYzlmMGE3LnBuZw==.png",VTV5 TÂY NGUYÊN
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/KQxgbsme2VRA4cznEv_DWov9PSPSHURBY_UdIAHw1AQ/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWZjOWEzM2QtMjBkZS00ZTNiLWEwZWUtNTYxZjc5ZTY1M2E1LnBuZw==.png",VTV6
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/YZrFZBwvKOzzZsRk27G0C2JOqkA5ALZTPc72fEnrCZs/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTU1YWM1NjYtOThhNC00MDhiLWI1ODgtMjg3ZDRiMDczYmU2LnBuZw==.png",VTV7
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/dRYDh8qf0U0AdBk0N6FheOKWRdv4nRcyvMh9s1_4wUM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZGNiMTcxMmUtNDdlYy00ZDUyLTg3MWItNDUyYTRmMzJlYTA5LnBuZw==.png",VTV8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/ex99djinSR4gpBal6_f_GON5IjWOqhAtmAmGePjIRnA/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDk0Y2NmZDYtYjZjOS00NDA5LTg2MTYtNzVlZTE5OWMwNzhmLnBuZw==.png",VTV9
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/gis0m2zIPCwqsPz3alKrBrJevbPKkXJ_SkhjYgZ1gJQ/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGFlMTllZGYtZDU5Zi00OGRmLWIyMDgtZGE3OTQxMzE5NGZiLnBuZw==.png",VTV10
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/poWO4cMIOvlO4LFEoljeRHTNK-92PkmcxEiRMCjB4pM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTE5YTVjNDYtMTZiMC00ZTUwLTlkNjItZmM1ZTJjZjQ3OTU4LnBuZw==.png",VIETNAM TODAY
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday__vtv1080p-h264/index.m3u8
