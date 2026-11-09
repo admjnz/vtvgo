@@ -26,50 +26,12 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv1080p-h264/index
 #EXTINF:-1 tvg-logo="https://img.vtvprime.vn/poWO4cMIOvlO4LFEoljeRHTNK-92PkmcxEiRMCjB4pM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTE5YTVjNDYtMTZiMC00ZTUwLTlkNjItZmM1ZTJjZjQ3OTU4LnBuZw==.png",VIETNAM TODAY
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday__vtv1080p-h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=180
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=175
-#EXTINF:-1 tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=181
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=182
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=136
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=178
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=176
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DgacoQ1.png",ON Style TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=184
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=185
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=186
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas
-http://dvrfl05.bozztv.com/vch_vchannel18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=187
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON KIDS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=179
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=188
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
@@ -77,9 +39,6 @@ https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMDjKF9.png",SCTV2 - TodayTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqcqqxhT/FIM360-logo.webp",SCTV6 - FIM 360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?id=232
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
@@ -112,8 +71,6 @@ https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tkjs3C5.png",HTVC+
 https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p9bWxfm.png",Vietnam Today
-https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nOb4rPT.png",Công An Nhân Dân
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UIGZw0y.png",Quốc Phòng Việt Nam
@@ -153,19 +110,13 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P3pbab8.png",Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pfq3ix9.png",Tuyên Quang
-https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UwTCbZ5.png",Thanh Hóa
 http://123.31.36.68/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxP9pG9N/nghean.png",Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sESKlNO.png",Hà Tĩnh
-https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bVWyWC7.png",Huế
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.huetv.com.vn/TRT-Online/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8jwBQ42q/dnrt1.png",Đà Nẵng 1
-https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/870Rs5Pm/dnrt2.png",Đà Nẵng 2
 https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdnCmw7y/QNg-TV1.png",Quảng Ngãi 1
@@ -211,12 +162,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSdSUqx.png",Vĩnh Long 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=91
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mgp6RAU.png",An Giang 1
-https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/efrauLr.png",An Giang 2
-https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZUV4z8.png",An Giang 3
-https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F5OhQVa.png",Cần Thơ 1
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HqV3frO.png",Cần Thơ 2
